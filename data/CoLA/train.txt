@@ -1,0 +1,200 @@
+One more pseudo generalization and I'm giving up.	1
+One more pseudo generalization or I'm giving up.	1
+The more we study verbs, the crazier they get.	1
+Day by day the facts are getting murkier.	1
+I'll fix you a drink.	1
+Fred watered the plants flat.	1
+Bill coughed his way out of the restaurant.	1
+We're dancing the night away.	1
+Herman hammered the metal flat.	1
+The critics laughed the play off the stage.	1
+The pond froze solid.	1
+Bill rolled out of the room.	1
+The gardener watered the flowers flat.	1
+The gardener watered the flowers.	1
+Bill broke the bathtub into pieces.	1
+Bill broke the bathtub.	1
+They drank the pub dry.	1
+They drank the pub.	0
+The professor talked us into a stupor.	1
+The professor talked us.	0
+We yelled ourselves hoarse.	1
+We yelled ourselves.	0
+We yelled Harry hoarse.	0
+Harry coughed himself into a fit.	1
+Harry coughed himself.	0
+Harry coughed us into a fit.	0
+Bill followed the road into the forest.	1
+We drove Highway 5 from SD to SF.	1
+Fred tracked the leak to its source.	1
+John danced waltzes across the room.	1
+Bill urinated out the window.	1
+Bill coughed out the window.	1
+Bill bled on the floor.	1
+The toilet leaked through the floor into the kitchen below.	1
+Bill ate off the floor.	1
+Bill drank from the hose.	1
+This metal hammers flat easily.	1
+They made him president.	1
+They made him angry.	1
+They caused him to become angry by making him.	0
+They caused him to become president by making him.	0
+They made him to exhaustion.	0
+They made him into a monster.	1
+The trolley rumbled through the tunnel.	1
+The wagon rumbled down the road.	1
+The bullets whistled past the house.	1
+The knee replacement candidate groaned up the stairs.	1
+The car honked down the road.	0
+The dog barked out of the room.	0
+The dog barked its way out of the room.	1
+Bill whistled his way past the house.	1
+The witch vanished into the forest.	1
+Bill disappeared down the road.	1
+The witch went into the forest by vanishing.	0
+The witch went into the forest and thereby vanished.	1
+The building is tall and wide.	1
+The building is tall and tall.	0
+This building is taller and wider than that one.	1
+This building got taller and wider than that one.	1
+This building got taller and taller.	1
+This building is taller and taller.	0
+This building got than that one.	0
+This building is than that one.	0
+Bill floated into the cave.	1
+Bill floated into the cave for hours.	0
+Bill pushed Harry off the sofa for hours.	0
+Bill floated down the river for hours.	1
+Bill floated down the river.	1
+Bill pushed Harry along the trail for hours.	1
+Bill pushed Harry along the trail.	1
+The road zigzagged down the hill.	1
+The rope stretched over the pulley.	1
+The weights stretched the rope over the pulley.	1
+The weights kept the rope stretched over the pulley.	1
+Sam cut himself free.	1
+Sam got free by cutting his finger.	1
+Bill cried himself to sleep.	1
+Bill cried Sue to sleep.	0
+Bill squeezed himself through the hole.	1
+Bill sang himself to sleep.	1
+Bill squeezed the puppet through the hole.	1
+Bill sang Sue to sleep.	1
+The elevator rumbled itself to the ground.	0
+If the telephone rang, it could ring itself silly.	1
+She yelled hoarse.	0
+Ted cried to sleep.	0
+The tiger bled to death.	1
+He coughed awake and we were all overjoyed, especially Sierra.	1
+John coughed awake, rubbing his nose and cursing under his breath.	1
+John coughed himself awake on the bank of the lake where he and Bill had their play.	1
+Ron yawned himself awake.	1
+She coughed herself awake as the leaf landed on her nose.	1
+The worm wriggled onto the carpet.	1
+The chocolate melted onto the carpet.	1
+The ball wriggled itself loose.	0
+Bill wriggled himself loose.	1
+Aliza wriggled her tooth loose.	1
+The off center spinning flywheel shook itself loose.	1
+The more you eat, the less you want.	1
+If you eat more, you want correspondingly less.	1
+When you eat more, you want correspondingly less.	1
+As you eat more, you want correspondingly less.	1
+The most you want, the least you eat.	0
+The angrier Sue gets, the more Fred admires her.	1
+The more that you eat, the less that you want.	1
+The angrier that Sue gets, the more that Fred admires her.	1
+I think that the more you eat, the less you want.	1
+I'm not shocked by the idea that the more you eat, the less you want.	1
+It is obvious that the more you eat, the less you want.	1
+It is not entirely clear if the more you eat, the less you want.	1
+I want to explain exactly why the more you eat, the less you want.	1
+I demand that the more John eats, the more he pays.	1
+I demand that the more John eat, the more he pay.	0
+I demand that John pay more, the more he eats.	1
+I demand that John pays more, the more he eat.	0
+You get angrier, the more we eat, don't you.	1
+You get angrier, the more we eat, don't we.	0
+The harder it has rained, how much faster a flow that appears in the river?	0
+The harder it has rained, how much faster a flow appears in the river?	1
+The harder it rains, how much faster that do you run?	0
+The harder it rains, how much faster do you run?	1
+The harder it rains, how much faster a flow do you see in the river?	1
+The harder it rains, how much faster a flow that do you see in the river?	0
+When it rains harder, how much faster a flow appears in the river?	1
+As it rains harder, how much faster a flow appears in the river?	1
+As it rains harder, how much faster a flow that appears in the river?	0
+When it rains harder, how much faster a flow that appears in the river?	0
+How much harder has it rained, the faster a flow you see in the river?	1
+How much harder has it rained, when you see a faster flow in the river?	1
+The more John eats, the tighter keep your mouth shut about it.	0
+The more everyone eat, the more John keeps his big mouth shut about it, OK?	0
+When John eats more, keep your mouth shut tighter, OK?	1
+As John eats more, keep your mouth shut tighter, OK?	1
+Keep your mouth shut tighter, the more John eats, OK?	1
+Everyone keep your mouth shut tighter, the more John eats, OK?	1
+I can well imagine the more him eating, the fatter him getting.	0
+Bill can well imagine getting fat.	1
+Bill can well imagine the more he eats, the fatter getting.	0
+Fred can well imagine Joe getting fatter, the more he eats.	1
+It is important the more you eat, the more careful to be.	0
+It is important for the more you eat, the more careful to be.	0
+It is important the more you to eat, the more careful to be.	0
+It is important the more you eat, the more careful you to be.	0
+It is important the more you eat, the more careful for you to be.	0
+It is important for the more you to eat, the more careful to be.	0
+It is important for the more you to eat, the more careful for you to be.	0
+It is important the more you to eat, the more careful for you to be.	0
+It is important for the more you eat, the more careful you to be.	0
+It is important for you to be more careful, the more you eat.	1
+It is important to be more careful, the more you eat.	1
+I can well imagine quickly Mary answering the question.	0
+I can well imagine with a hatchet Mary destroying the Jeep.	0
+I can well imagine if he eats more, him getting fat.	0
+It is not entirely obvious if, Mary listens to the Grateful Dead, she gets depressed.	0
+It is not entirely obvious whether, Mary listens to the Grateful Dead, she gets depressed.	0
+Mary listens to the Grateful Dead and she gets depressed.	1
+If Mary listens to the Grateful Dead, she gets depressed.	1
+When Mary listens to the Grateful Dead, she gets depressed.	1
+Mary gets depressed if she listens to the Grateful Dead.	1
+Mary gets depressed when she listens to the Grateful Dead.	1
+The more she looked at pictures, the angrier Mary got.	1
+The more pictures Mary looked at, she got angrier and angrier.	0
+Mary gets depressed and she listens to the Grateful Dead.	1
+The higher the stakes are, the lower his expectations are.	1
+The higher the stakes, the lower his expectations.	1
+His expectations are lower, the higher the stakes.	1
+His expectations are lower, the higher the stakes are.	1
+His expectations lower, the higher the stakes.	0
+His expectations lower, the higher the stakes are.	0
+The more obnoxious Fred is, the less attention you should pay to him.	1
+The more obnoxious Fred, the less attention you should pay to him.	0
+The more Fred is obnoxious, the less you should pay attention to him.	1
+The more obnoxious Fred, the less you should pay attention to him.	0
+His expectations are always lower than mine.	1
+John was lots more obnoxious than Fred was.	1
+You should always lock your door, no matter how fancy the hotel might be.	1
+You should always lock your door, no matter how fancy the hotel.	1
+I don't plan to lock the door, no matter how fancy this hotel is.	1
+I don't plan to lock the door, no matter how fancy this hotel.	0
+I'm going out, whatever the weather.	1
+I'm going out, wherever that hurricane might be.	1
+I'm going out, wherever that hurricane.	0
+The more examples Mary says that Bill has helped Fred to discover the less I believe her.	1
+The more food Mary knows a man that eats the poorer she gets.	0
+The fatter he goes to a doctor when he gets the more he eats.	0
+The fatter that that he gets bothers him, the more he eats.	0
+The more books I ask to whom he will give, the more he reads.	0
+The more people I ask what he will give to the more he reads.	0
+The more carefully he words the letter the safer he'll be.	1
+The more carefully he knows a man that worded the letter the safer he'll be.	0
+The more geniuses John meets, the angrier he gets.	1
+The more John meets geniuses, the angrier he gets.	0
+The more people you say will buy tickets, the happier I'll be.	1
+The more people you say that will buy tickets, the happier I'll be.	0
+The more people you say that right after the show opens will buy tickets, the happier I'll be.	1
+The more I talk to Joe, the less about linguistics I am inclined to think Sally has taught him to appreciate.	1
+The more he eats, the poorer he knows a woman that gets.	0
+The more he eats, the fatter he goes to a doctor when he gets.	0
+The more he eats, the fatter that that he gets really bothers me.	0
+The more he reads, the more books I wonder to whom he will give.	0

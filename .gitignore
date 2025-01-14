@@ -1,0 +1,5 @@
+models/
+model_save/
+logs/
+src/__pycache__/
+.idea/
